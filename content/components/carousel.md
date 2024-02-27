@@ -27,7 +27,7 @@ Use the `duration-*` and the animation classes from Tailwind CSS to apply custom
 
 {{< example id="default-carousel-example" github="components/carousel.md" show_dark=true >}}
 
-<div id="default-carousel" class="relative w-full" data-carousel="slide">
+<div id="default-carousel" class="relative w-28" data-carousel="slide">
     <!-- Carousel wrapper -->
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
          <!-- Item 1 -->
